@@ -1,0 +1,11 @@
+! Create By As1rkiv
+! 笔趣阁
+biqugei.net/read##body>div.visible-xs
+biqugei.net/read###back-to-top
+! Bilibili
+bilibili.com###activity_vote
+! Baidu 移动端
+baidu.com###index-card > div.blank-frame
+! Baidu PC端
+baidu.com###searchTag
+baidu.com###content_left > div[tpl="recommend_list"]
