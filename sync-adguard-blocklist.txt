@@ -1,9 +1,5 @@
+! Created by As1rkiv
 ! 笔趣阁
-||allcdn.vip^
-||bjzankai.com^
-||bxwwl.com^
-||sdchb2.com^
-||cecsc1.com^
 biqugei.net/read##body>div.visible-xs
 biqugei.net/read###back-to-top
 ! Bilibili
