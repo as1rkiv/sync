@@ -11,3 +11,5 @@ baidu.com###searchTag
 baidu.com###content_left > div[tpl="recommend_list"]
 wenku.baidu.com###app-left
 wenku.baidu.com###app-right
+wenku.baidu.com###reader-remind
+wenku.baidu.com###app-reader-editor-below
