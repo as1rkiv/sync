@@ -1,6 +1,4 @@
-! Create By As1rkiv
 ! 笔趣阁
-biqugei.net/read#%#//scriptlet('abort-on-property-write', 'document.createElement')
 biqugei.net/read##body>div.visible-xs
 biqugei.net/read###back-to-top
 ! Bilibili
