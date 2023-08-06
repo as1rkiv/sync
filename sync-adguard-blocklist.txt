@@ -1,19 +1,19 @@
 ! Created by As1rkiv
-! 笔趣阁
+! Biquge Mobile
 biqugei.net/read##body>div.visible-xs
 biqugei.net/read###back-to-top
-! Bilibili
+! Bilibili PC
 bilibili.com###activity_vote
-! Baidu 移动端
+! Baidu Mobile
 baidu.com###index-card > div.blank-frame
-! Baidu PC端
+! Baidu PC
 baidu.com###searchTag
 baidu.com###content_left > div[tpl="recommend_list"]
 wenku.baidu.com###app-left
 wenku.baidu.com###app-right
 wenku.baidu.com###reader-remind
 wenku.baidu.com###app-reader-editor-below
-! CSDN
+! CSDN Mobile
 blog.csdn.net##body > div.passport-login-container
 blog.csdn.net##body > div.feed-Sign-weixin
 blog.csdn.net##body > div#main > div.btn_open_app_prompt_div
