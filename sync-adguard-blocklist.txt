@@ -13,7 +13,3 @@ wenku.baidu.com###app-left
 wenku.baidu.com###app-right
 wenku.baidu.com###reader-remind
 wenku.baidu.com###app-reader-editor-below
-! CSDN Mobile
-blog.csdn.net##body > div.passport-login-container
-blog.csdn.net##body > div.feed-Sign-weixin
-blog.csdn.net##body > div#main > div.btn_open_app_prompt_div
