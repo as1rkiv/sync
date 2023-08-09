@@ -14,4 +14,4 @@ wenku.baidu.com###reader-remind
 wenku.baidu.com###app-reader-editor-below
 haokan.baidu.com###passport-login-pop
 haokan.baidu.com##body > div.pop-mask
-haokan.baidu.com###rooot > div.pagebase.pagebase-fullmain > div.pagebase-right.pagebase-right-fullmain > div.pagebase-right-bottom.pagebase-right-bottom-fullmain > div.page > div > div.page-right > div > div.landrightbanner > div.landrightbanner-content > img
+haokan.baidu.com###rooot > div.pagebase.pagebase-fullmain > div.pagebase-right.pagebase-right-fullmain > div.pagebase-right-bottom.pagebase-right-bottom-fullmain > div.page > div > div.page-right > div > div.landrightbanner
