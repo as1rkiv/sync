@@ -1,4 +1,3 @@
-! Created by As1rkiv
 ! Biquge Mobile
 biqugei.net/read##body>div.visible-xs
 biqugei.net/read###back-to-top
@@ -13,3 +12,5 @@ wenku.baidu.com###app-left
 wenku.baidu.com###app-right
 wenku.baidu.com###reader-remind
 wenku.baidu.com###app-reader-editor-below
+haokan.baidu.com###passport-login-pop
+haokan.baidu.com##body > div.pop-mask
