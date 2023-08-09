@@ -3,6 +3,11 @@ biqugei.net/read##body>div.visible-xs
 biqugei.net/read###back-to-top
 ! Bilibili PC
 bilibili.com###activity_vote
+! Souhu
+mil.sohu.com###articleAllsee
+mil.sohu.com###article-container > div.left.main:nth-child(3) > div.groom-read:last-child
+mil.sohu.com###right-side-bar
+mil.sohu.com###float-btn
 ! Baidu Mobile
 baidu.com###index-card > div.blank-frame
 ! Baidu PC
