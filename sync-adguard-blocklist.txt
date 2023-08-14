@@ -10,6 +10,8 @@ mil.sohu.com###right-side-bar
 mil.sohu.com###float-btn
 ! Baidu Mobile
 baidu.com###index-card > div.blank-frame
+m.baidu.com###page-copyright
+baijiahao.baidu.com###bdrainrwDragButton
 ! Baidu PC
 baidu.com###searchTag
 baidu.com###content_left > div[tpl="recommend_list"]
