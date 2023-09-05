@@ -1,5 +1,8 @@
 ! Biquge Mobile
-biqugei.net/read##body>div.visible-xs
+biqugei.net/read##body > header
+biqugei.net/read##body > footer
+biqugei.net/read##body > div.visible-xs
+biqugei.net/read###content > div.page-header.text-center > p
 biqugei.net/read###back-to-top
 ! Bilibili PC
 bilibili.com###activity_vote
