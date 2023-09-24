@@ -1,8 +1,8 @@
 #!name=笔趣阁
-#!desc=网站直连，屏蔽广告域名，移除广告脚本
+#!desc=域名直连，屏蔽广告域名，移除广告脚本
 
 [Rule]
-# 直连
+# 域名
 DOMAIN-SUFFIX,biqugei.net,DIRECT
 # 笔趣阁 Ads Block Begin
 DOMAIN-SUFFIX,allcdn.vip,REJECT-TINYGIF
@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,qbhmz3.com,REJECT-TINYGIF
 # 笔趣阁 Ads Block End
 
 [MITM]
-hostname = %APPEND% *.biqugei.net
+hostname = %APPEND% *.biqugei.net // 预备
 
 [Script]
-ad_biquge = type=http-response,pattern=^https?://+(www.)?biqugei.net,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/as1rkiv/sync/main/surge/sgmodule/biqugei.net/ads.js
+ads_biquge = type=http-response,pattern=^https?://+(www.)?biqugei.net,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/as1rkiv/sync/main/surge/biqugei.net/ads.js
 
