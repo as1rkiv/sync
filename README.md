@@ -3,4 +3,4 @@
 
 |名称|raw|描述|
 |:-:|:-:|:-:|
-|`blocklist.txt`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/blocklist.txt)|AdGuard
+|`blocklist.txt`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/adguard/blocklist.txt)|AdGuard
