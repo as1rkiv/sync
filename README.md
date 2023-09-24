@@ -3,4 +3,6 @@
 
 |名称|raw|描述|
 |:-:|:-:|:-:|
-|`blocklist.txt`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/adguard/blocklist.txt)|AdGuard
+|`adguard/blocklist.txt`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/adguard/blocklist.txt)|AdGuard
+|`surge/sgmodule/ads.sgmodule`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/surge/sgmodule/biqugei.net/ads.sgmodule)|Surge
+

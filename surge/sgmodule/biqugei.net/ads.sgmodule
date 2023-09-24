@@ -19,5 +19,5 @@ DOMAIN-SUFFIX,qbhmz3.com,REJECT-TINYGIF
 hostname = %APPEND% *.biqugei.net
 
 [Script]
-ad_biquge = type=http-response,pattern=^https?://+(www.)?biqugei.net,requires-body=1,max-size=0,script-path=js/ad_biquge.js
+ad_biquge = type=http-response,pattern=^https?://+(www.)?biqugei.net,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/as1rkiv/sync/main/surge/sgmodule/biqugei.net/ads.js
 
