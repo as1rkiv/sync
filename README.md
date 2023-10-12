@@ -4,5 +4,4 @@
 |App|名称|raw|描述|
 |:-:|:-:|:-:|:-:|
 |AdGuard|`blocklist`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/adguard/blocklist.txt)|屏蔽页面元素
-|Surge|`biqugei.net`|[link](https://raw.githubusercontent.com/as1rkiv/sync/main/surge/biqugei.net/ads.sgmodule)|笔趣阁去广告
 
