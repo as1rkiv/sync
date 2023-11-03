@@ -6,6 +6,9 @@ biqugei.net/read###content > div.page-header.text-center > p
 biqugei.net/read###back-to-top
 ! Bilibili PC
 bilibili.com###activity_vote
+bilibili.com###i_cecream > div.adblock-tips
+bilibili.com##div.desktop-download-tip
+bilibili.com###i_cecream > div.bili-feed4 > div.trial-feed-wrap
 ! Souhu
 mil.sohu.com###articleAllsee
 mil.sohu.com###article-container > div.left.main:nth-child(3) > div.groom-read:last-child
